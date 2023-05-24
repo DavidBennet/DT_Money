@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-06T22:21:45.432Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Habitação",
+      "price": 500,
+      "createdAt": "2023-05-07T22:20:00.432Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-05-08T22:40:00.432Z"
+    },
+    {
+      "description": "desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-05-23T23:35:29.537Z",
+      "id": 4
+    },
+    {
+      "description": "cachorro-quente",
+      "price": 15,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-23T23:43:59.017Z",
+      "id": 5
+    },
+    {
+      "description": "cachorro-quente",
+      "price": 20,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-23T23:44:24.768Z",
+      "id": 6
+    },
+    {
+      "description": "vitamina de banana",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-24T00:10:19.571Z",
+      "id": 7
+    }
+  ]
+}
